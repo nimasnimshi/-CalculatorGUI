@@ -1,6 +1,3 @@
-#CalculatorGUI
-A simple calculator GUI implemented in Java using Swing. This calculator supports basic arithmetic operations (+, -, *, /, %), decimal point input, backspace functionality, and sign inversion. It provides a user-friendly interface for performing calculations.
-
 # CalculatorGUI_Java
 
 This repository contains a simple calculator GUI implemented in Java using Swing. The calculator supports basic arithmetic operations such as addition, subtraction, multiplication, division, and modulus.
@@ -21,3 +18,18 @@ This repository contains a simple calculator GUI implemented in Java using Swing
 To compile the Java file:
 ```bash
 javac DSE_21_075.java
+```
+## Contributing
+Contributions are welcome! Feel free to fork the repository, make changes, and submit a pull request.
+
+## License
+This project is licensed under the MIT License.
+
+This README covers basic information about the repository, how to use it, how to run the code, and encourages contributions under the MIT License. You can enhance it further by adding detailed instructions, screenshots, or any additional functionalities of the calculator.
+
+2 / 2
+
+
+
+
+
